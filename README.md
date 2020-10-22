@@ -1,1 +1,1 @@
-Library Management System using Tkinter GUI tookkit
+Library Management System using Tkinter GUI toolkit
